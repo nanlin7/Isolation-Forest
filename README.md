@@ -6,7 +6,7 @@ The goal of this project is to implement the original [Isolation Forest](paper_i
 ## Overview
 
 The implementation is in [iforest.py](iforest.py), in this file, I defined following classes and methods: IsolationTreeEnsemble, Isolation Tree, Node classes. 
-<img src="images/tree_viz.png" width="320">
+<img src="image/tree_viz.png" width="320">
 
 ## Result Interpretation
 
