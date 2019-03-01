@@ -17,11 +17,7 @@ The implementation is in [iforest.py](iforest.py), in this file, I defined follo
 <img src="images/PathLength.png" width="350">
 </td>
 
-<td valign="top">
-Please use this version of average path length <tt>c()</tt>, not the one in the original paper:<br>
-<img src="images/avgPathLength.png" width="320">
 
-</td>
 </tr>
 </table>
 
