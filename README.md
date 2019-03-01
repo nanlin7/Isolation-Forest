@@ -30,3 +30,5 @@ The metrics I used for this classfication here is TPR, FPR and confusion matrix.
 
 
 <img src="image/tree_viz.png" width="320">
+
+<img src="image/treeviz.svg" width="350">
