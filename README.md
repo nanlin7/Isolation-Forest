@@ -12,14 +12,20 @@ The implementation is in [iforest.py](iforest.py), in this file, I defined follo
 <td width="50%" valign="top"><img src="images/iForest.png" width="350"></td><td width="50%" valign="top"><img src="images/iTree.png" width="350"></td>
 </tr>
 <tr>
+  
 <td valign="top">
 <img src="images/PathLength.png" width="350">
 </td>
+
 <td valign="top">
 Please use this version of average path length <tt>c()</tt>, not the one in the original paper:<br>
 <img src="images/avgPathLength.png" width="320">
 
-  
+</td>
+</tr>
+</table>
+
+
 ## Result Interpretation
 
 In [iforest_example.ipynb](iforest_example.ipynb), I visualized the reuslt by the distribution of data, we can see the results of the isolation forest trying to detect anomalies. These data sets all have known targets indicating normal versus anomaly.
