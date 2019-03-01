@@ -6,6 +6,19 @@ The goal of this project is to implement the original [Isolation Forest](paper_i
 ## Overview
 
 The implementation is in [iforest.py](iforest.py), in this file, I defined following classes and methods: IsolationTreeEnsemble, Isolation Tree, Node classes. 
+
+<table border="0">
+<tr>
+<td width="50%" valign="top"><img src="image/iForest.png" width="350"></td><td width="50%" valign="top"><img src="image/iTree.png" width="350"></td>
+</tr>
+<tr>
+<td valign="top">
+<img src="image/PathLength.png" width="350">
+</td>
+
+</tr>
+</table>
+
 <img src="image/tree_viz.png" width="320">
 
 ## Result Interpretation
