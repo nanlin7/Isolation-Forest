@@ -1,11 +1,11 @@
 # Isolation Forest Implementation
 
 Implement Isolation Forest for anomaly detection
-The goal of this project is to implement the original [Isolation Forest] (paper_iforest.pdf) algorithm by Fei Tony Liu, Kai Ming Ting, and Zhi-Hua Zhou. Unlike other common anomly detection technoques that model what normal looks like, this isolation forest algorithm is focusing on the anomalies which are few and different. 
+The goal of this project is to implement the original [Isolation Forest](paper_iforest.pdf) algorithm by Fei Tony Liu, Kai Ming Ting, and Zhi-Hua Zhou. Unlike other common anomly detection technoques that model what normal looks like, this isolation forest algorithm is focusing on the anomalies which are few and different. 
 
 ## Overview
 
-The implementation is in [iforest.py], in this file, I defined following classes and methods: IsolationTreeEnsemble, Isolation Tree, Node classes. 
+The implementation is in [iforest.py](iforest.py), in this file, I defined following classes and methods: IsolationTreeEnsemble, Isolation Tree, Node classes. 
 
 <table border="0">
 <tr>
