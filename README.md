@@ -7,16 +7,6 @@ The goal of this project is to implement the original [Isolation Forest](paper_i
 
 The implementation is in [iforest.py](iforest.py), in this file, I defined following classes and methods: IsolationTreeEnsemble, Isolation Tree, Node classes. 
 
-<table border="0">
-<tr>
-<td width="50%" valign="top"><img src="images/iForest.png" width="350"></td><td width="50%" valign="top"><img src="images/iTree.png" width="350"></td>
-</tr>
-<tr>
-<td valign="top">
-<img src="images/PathLength.png" width="350">
-</td>
-</tr>
-</table>
 
 ## Result Interpretation
 
