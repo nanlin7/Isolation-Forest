@@ -29,7 +29,4 @@ In [iforest_example.ipynb](iforest_example.ipynb), I visualized the reuslt by th
 The metrics I used for this classfication here is TPR, FPR and confusion matrix. Besides, small subset was used for tree visulization to indicate the overall structure of indivual trees in the isolation forest.
 
 
-<img src="image/tree_viz.png" width="500">
-
-
 <img src="image/treeviz.png" >
