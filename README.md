@@ -12,15 +12,11 @@ The implementation is in [iforest.py](iforest.py), in this file, I defined follo
 <td width="50%" valign="top"><img src="images/iForest.png" width="350"></td><td width="50%" valign="top"><img src="images/iTree.png" width="350"></td>
 </tr>
 <tr>
-  
 <td valign="top">
 <img src="images/PathLength.png" width="350">
 </td>
-
-
 </tr>
 </table>
-
 
 ## Result Interpretation
 
