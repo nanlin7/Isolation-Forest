@@ -5,7 +5,11 @@ The goal of this project is to implement the original [Isolation Forest](paper_i
 
 ## Overview
 
-The implementation is in [iforest.py](iforest.py), in this file, I defined following classes and methods: IsolationTreeEnsemble, Isolation Tree, Node classes. 
+The Isolation Forest algorithm isolates observations by randomly selecting a feature and then randomly selecting a split value between the maximum and minimum values of the selected feature. The logic argument goes: isolating anomaly observations is easier because only a few conditions are needed to separate those cases from the normal observations. On the other hand, isolating normal observations require more conditions. Therefore, an anomaly score can be calculated as the number of conditions required to separate a given observation.
+
+The way that the algorithm constructs the separation is by first creating isolation trees, or random decision trees. Then, the score is calculated as the path length to isolate the observation
+
+The implementation is in [iforest.py](iforest.py), in this file, I defined following classes and methods:  
 
 <table border="0">
 <tr>
