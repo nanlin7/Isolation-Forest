@@ -1,7 +1,7 @@
 # Isolation Forest Implementation
 
 Implement Isolation Forest for anomaly detection
-The goal of this project is to implement the original [Isolation Forest] (IsolationForestPaper.pdf) algorithm by Fei Tony Liu, Kai Ming Ting, and Zhi-Hua Zhou. Unlike other common anomly detection technoques that model what normal looks like, this isolation forest algorithm is focusing on the anomalies which are few and different. 
+The goal of this project is to implement the original [Isolation Forest] (paper_iforest.pdf) algorithm by Fei Tony Liu, Kai Ming Ting, and Zhi-Hua Zhou. Unlike other common anomly detection technoques that model what normal looks like, this isolation forest algorithm is focusing on the anomalies which are few and different. 
 
 ## Overview
 
